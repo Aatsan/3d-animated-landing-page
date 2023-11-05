@@ -3,7 +3,7 @@
 This website showcases a captivating 3D animated landing page created with the help of two powerful JavaScript libraries:
 
 - [three.js](https://threejs.org) for 3D graphics.
-- [shery.js]([https://threejs.org](https://www.npmjs.com/package/sheryjs)) for enhancing the experience.
+- [shery.js]([https://threejs.org](https://www.npmjs.com/package/sheryjs) for enhancing the experience.
 
 The 3D animation is inspired by the source video, which you can watch [here](https://youtu.be/P3fHboyHvkg?si=v8zj9gz8Ylb5ZRXO).
 
