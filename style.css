@@ -116,7 +116,6 @@ body {
 
 #heroleft button {
     pointer-events: all;
-
     padding: .9vw 3vw;
     margin-top: 2vw;
     font-size: 3.1vw;
@@ -154,6 +153,7 @@ body {
 }
 
 #heroright #imagediv {
+    pointer-events: all;
     width: 100%;
     height: 170px;
     margin-top: 13px;
