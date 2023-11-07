@@ -1,5 +1,6 @@
 # 3D Animated Landing Page
-- [see the result of this website:](https://3d-animated-landing-page.aats.repl.co)
+- [see the result of this website:Github-Pages ](https://aatsan.github.io/3d-animated-landing-page/)
+- [see the result of this website:Replit](https://3d-animated-landing-page.aats.repl.co)
 
 This website showcases a captivating 3D animated landing page created with the help of two powerful JavaScript libraries:
 
